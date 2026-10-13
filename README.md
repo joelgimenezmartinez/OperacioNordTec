@@ -1,5 +1,4 @@
 # Operació NordTec
-<h1>Operació Nord Tec </h1>
 <h3>
     - Joel Gimenez Martinez - ASIX 1B
 </h3>
