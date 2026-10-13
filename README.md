@@ -1,5 +1,12 @@
 # Operació NordTec
-quitectura de xarxa</a></li>
+<h1>Operació Nord Tec </h1>
+<h3>
+    - Joel Gimenez Martinez - ASIX 1B
+</h3>
+<h2>Índex</h2>
+    <ul>
+        <li><a href="#estat">Estat del projecte</a></li>
+        <li><a href="#arquitectura">Arquitectura de xarxa</a></li>
         <li><a href="#configuracions">Configuracions</a></li>
         <li><a href="#incidencies">Incidències i solucions</a></li>
         <li><a href="#decisions">Decisions tècniques</a></li>
@@ -33,10 +40,10 @@ quitectura de xarxa</a></li>
     <li><strong>Solució:</strong> [què vam fer]</li>
     </ul>
 <h2 d="decisions">Decisions tècniques </h2>
-    ul>
+    <ul>
         li><strong>Què hem triat:</strong> [opció]</li>
         <li><strong>Per què:</strong> [motiu]</li>
         <li><strong>Alternatives:</strong> [altres opcions]</li>
-    ul>
+    <ul>
 <h2 id="reflexions">Reflexions tècniques</h2>
 <p>[Què he après, què ha costat més i què faria diferent]</p>
