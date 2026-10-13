@@ -26,7 +26,7 @@
         <li>Router: [192.168.X.1]</li>
         <li>Servidor: [192.168.X.10]</li>
         <li>Client: [192.168.X.X]</li>
-    ul>
+    <ul>
 <h2 id="configuracions">Configuracions</h2>
 <p><strong>[nom-del-fitxer]</strong>: [explicació de què fa i per a què serveix]</p>
 <h2 id="incidencies">Incidències i solucions</h2>
@@ -40,7 +40,7 @@
     </ul>
 <h2 d="decisions">Decisions tècniques </h2>
     <ul>
-        li><strong>Què hem triat:</strong> [opció]</li>
+        <li><strong>Què hem triat:</strong> [opció]</li>
         <li><strong>Per què:</strong> [motiu]</li>
         <li><strong>Alternatives:</strong> [altres opcions]</li>
     <ul>
